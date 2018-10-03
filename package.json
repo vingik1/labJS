@@ -1,0 +1,25 @@
+{
+  "name": "labjs",
+  "version": "1.0.0",
+  "description": "Lab project in class",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vingik1/labJS.git"
+  },
+  "keywords": [
+    "keyword"
+  ],
+  "author": "viktor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vingik1/labJS/issues"
+  },
+  "homepage": "https://github.com/vingik1/labJS#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
